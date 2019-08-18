@@ -1,0 +1,14 @@
+C:\Projects\Pitstop\src\CustomerManagementAPI\bin\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.deps.json
+C:\Projects\Pitstop\src\CustomerManagementAPI\bin\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.runtimeconfig.json
+C:\Projects\Pitstop\src\CustomerManagementAPI\bin\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.runtimeconfig.dev.json
+C:\Projects\Pitstop\src\CustomerManagementAPI\bin\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.dll
+C:\Projects\Pitstop\src\CustomerManagementAPI\bin\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.pdb
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.csprojAssemblyReference.cache
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.RazorAssemblyInfo.cache
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.RazorAssemblyInfo.cs
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.AssemblyInfoInputs.cache
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.AssemblyInfo.cs
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\CustomerManagementAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.dll
+C:\Projects\Pitstop\src\CustomerManagementAPI\obj\Debug\netcoreapp2.2\Pitstop.CustomerManagementAPI.pdb
